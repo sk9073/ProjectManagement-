@@ -1,0 +1,2 @@
+# ProjectManagement-
+Our application, Project Management System revolves around the Object oriented concepts. We have included concepts like inheritance, file handling, data structure, exception handling,static concepts etc.This project involves assigning mentors to the student groups, set the review schedule by the reviewing faculty and generate their ratings after the review.The use of Object oriented concepts made this application more constructive for both students and faculties.
